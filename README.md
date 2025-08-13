@@ -11,9 +11,10 @@
 
 <h2>
   <a href="https://github.com/damiansayshi1/x86-64_assembly_zoo_record_manager">
-    Project in x86-64 assembly (https://github.com/damiansayshi1/x86-64_assembly_zoo_record_manager)
+    Project in x86-64 assembly 
   </a>
 </h2>
+<h4>(https://github.com/damiansayshi1/x86-64_assembly_zoo_record_manager)</h4>
 
 <ul>
   <li><b>Static Memory Management –</b> Uses fixed-size arrays in <code>.bss</code> to store up to 500 badgers and 100 staff records without dynamic allocation.</li>
@@ -27,9 +28,10 @@
 
 <h2>
   <a href="https://github.com/damiansayshi1/CGICC_Secure_WebApp">
-    CGICC Secure Web Application (https://github.com/damiansayshi1/CGICC_Secure_WebApp)
+    CGICC Secure Web Application
   </a>
 </h2>
+<h4>(https://github.com/damiansayshi1/CGICC_Secure_WebApp)</h4>
 
 <ul>
   <li><b>Developed a secure web application from scratch in C++ using the CGICC library and a MariaDB backend, focusing on robust security practices.</li>
@@ -42,9 +44,10 @@
 
 <h2>
   <a href="https://github.com/damiansayshi1/Secure_Cisco_Enterprise_Network">
-    Cisco_Secure_Enterprise_Network (https://github.com/damiansayshi1/Secure_Cisco_Enterprise_Network)
+    Cisco_Secure_Enterprise_Network
   </a>
 </h2>
+<h4>(https://github.com/damiansayshi1/Secure_Cisco_Enterprise_Network)</h4>
 
 <ul>
   <li><b>Designed and simulated a secure, multi-floor enterprise network topology in Cisco Packet Tracer to support 240+ users across 7 distinct VLANs.</li>
