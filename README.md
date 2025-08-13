@@ -2,12 +2,26 @@
 
 <p>
   <strong>
-  I am an aspiring IT Technician with a strong foundation in cybersecurity, hardware, and network troubleshooting. 
-  Currently completing an MSc in Computer Science for Cyber Security. 
-  Passionate about delivering user-focused technical support and solving hardware/software challenges. 
-  This repository highlights some of my work and projects.
+  An aspiring IT Support and Cybersecurity professional with a strong foundation in network configuration, system administration, and security best practices. I am passionate about solving complex technical challenges and enhancing IT infrastructure. My MSc in Computer Science for Cyber Security has equipped me with advanced skills in threat mitigation and secure system design.
   </strong> 
 </p>
+<br />
+
+<h2>Skills </h2>
+<ul>
+  <li><b>Network Security:</b>VLANs, Subnetting, Firewalls (Cisco ASA), WPA2-AES, Port Security</li>
+  <li>System Security:<b></b>Password Hashing (SHA-256), Session Management, XSS/SQLi Mitigation</li>
+  <li><b>Hardware & Troubleshooting:</b>PC Hardware, Network Cabling, Diagnostic Tools</li>
+  <li><b>Languages & Tools:</b>C, C++, x86-64 Assembly, MariaDB, Python, Cisco Packet Tracer, Linux</li>
+  <li><b>Protocols:</b>TCP/IP, DHCP, STP, SSH</li>
+</ul>
+
+<h2>Certifications </h2>
+<ul>
+  <li><b>Comptia Network+    </b><i>(earned)</i></li>
+  <li>Comptia Security+    <b></b><i>(earned)</i></li>
+  <li><b>CCNA    </b><i>(In Progress- Expected Completion September 2025)</i></li>
+</ul>
 
 <h2>
   <a href="https://github.com/damiansayshi1/x86-64_assembly_zoo_record_manager">
@@ -55,4 +69,24 @@
   <li><b>Hardened the network by deploying an ASA firewall, enforcing switch port security, shutting down unused ports, and securing the wireless network with WPA2-AES.</li>
 </ul>
 <br /> 
+    
+<h2>Connect with Me</h2>    
+<a href="https://www.linkedin.com/in/damian-lis-2244021a6/" target="_blank">
+  <img alt="DamianLis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+  <span>LinkedIn</span>
+</a>
 <br />
+
+<a href="mailto:damiansayshi@hotmail.co.uk" target="_blank">
+  <img alt="DamianLis | Email" width="22px" src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" /> 
+  <span>Email</span>
+</a>
+<br />
+
+<a href="tel:+17347098223" target="_blank">
+  <img alt="DamianLis | Phone" width="22px" src="https://img.icons8.com/?size=100&id=CGt5IxEbR5Sl&format=png&color=000000" /> 
+  <span>Telephone: +1 734-709-8223</span>
+</a>
+<br />
+
+
