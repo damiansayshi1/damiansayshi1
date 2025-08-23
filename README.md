@@ -77,7 +77,7 @@
 </a>
 <br />
 
-<a href="mailto:damiansayshi@hotmail.co.uk" target="_blank">
+<a href="mailto:damianlis815@gmail.com" target="_blank">
   <img alt="DamianLis | Email" width="22px" src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" /> 
   <span>Email</span>
 </a>
