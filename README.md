@@ -1,4 +1,4 @@
-<h1>Hello, I'm Damian!</h1>
++<h1>Hello, I'm Damian!</h1>
 
 <p>
   <strong>
@@ -80,7 +80,7 @@
 <a href="mailto:damianlis815@gmail.com" target="_blank">
   <img alt="DamianLis | Email" width="22px" src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" /> 
   <span>Email</span>
-</a>
+</a> <span>: damianlis815@gmail.com</span>
 <br />
 
 <a href="tel:+17347098223" target="_blank">
